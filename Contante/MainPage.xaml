@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Contante"
+             x:Class="Contante.MainPage">
+    
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Image Source="https://cdn-images-1.medium.com/max/800/1*QoiVurCZ3HTOkmYi9n5Gaw.png" />
+        <Label Text="VAMOS NESSA "
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               FontSize="25"
+               FontAttributes="Bold"
+               x:Name="label_status"
+               />
+        
+        <Label Text="Contando"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                FontSize="20"
+                x:Name="label_status1"
+                />
+        
+        <Button Text="ME CLICA"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                FontSize="20"
+                Clicked="ClicadaDoBotao"
+                x:Name="button_meClica"
+                />
+        
+    </StackLayout>
+</ContentPage>

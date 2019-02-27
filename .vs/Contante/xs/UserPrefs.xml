@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9658998B-93E5-437C-995D-24C217696CF6}|Default">
+  <MonoDevelop.Ide.ItemProperties.Contante.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.5711d61d" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Contante/MainPage.xaml">
+    <Files>
+      <File FileName="Contante/App.xaml.cs" Line="18" Column="10" />
+      <File FileName="Contante/MainPage.xaml.cs" Line="8" Column="1" />
+      <File FileName="Contante/MainPage.xaml" Line="21" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Contante" expanded="True">
+            <Node name="Contante" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="Contante.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Contante.iOS FirstBuild="True" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget." />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

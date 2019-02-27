@@ -1,0 +1,12 @@
+/Users/aluno/Projects/Contante/Contante/bin/Debug/netstandard2.0/Contante.deps.json
+/Users/aluno/Projects/Contante/Contante/bin/Debug/netstandard2.0/Contante.dll
+/Users/aluno/Projects/Contante/Contante/bin/Debug/netstandard2.0/Contante.pdb
+/Users/aluno/Projects/Contante/Contante/obj/Debug/netstandard2.0/Contante.csprojAssemblyReference.cache
+/Users/aluno/Projects/Contante/Contante/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Projects/Contante/Contante/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Projects/Contante/Contante/obj/Debug/netstandard2.0/Contante.csproj.CoreCompileInputs.cache
+/Users/aluno/Projects/Contante/Contante/obj/Debug/netstandard2.0/Contante.AssemblyInfoInputs.cache
+/Users/aluno/Projects/Contante/Contante/obj/Debug/netstandard2.0/Contante.AssemblyInfo.cs
+/Users/aluno/Projects/Contante/Contante/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Projects/Contante/Contante/obj/Debug/netstandard2.0/Contante.dll
+/Users/aluno/Projects/Contante/Contante/obj/Debug/netstandard2.0/Contante.pdb
